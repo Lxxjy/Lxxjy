@@ -17,5 +17,5 @@ Here are some ideas to get you started:
  
  ### THIS IS Lxxjx
  
- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C++-배경색?style=plastic&logo=#00599C&logoColor=로고색상"/></a>
- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Qt-배경색?style=plastic&logo=#41CD52&logoColor=#41cd52"/></a>
+ <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/C++-0275d8?style=plastic&logo=#00599C&logoColor=로고색"/></a>
+ <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/Qt-41cd52?style=plastic&logo=#41CD52&logoColor=로고색"/></a>
