@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/[쓰고 싶은 텍스트]-[컬러 코드]?style=[모양]&logo=[브랜드 이름]&logoColor=[로고색상]"/></a> -->
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lxxyx&show_icons=true&theme=radical)
 
